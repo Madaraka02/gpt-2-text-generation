@@ -1,1 +1,1 @@
-# gpt9--2-text-generation
+# GPT-2-2-text-generation
